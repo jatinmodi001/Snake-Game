@@ -1,7 +1,6 @@
 #include<iostream>
 #include<vector>
 #include<stdlib.h>
-#include<ncurses.h>
 
 using namespace std;
 
